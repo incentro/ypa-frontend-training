@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
-    "isomorphic-unfetch": "^3.0.0",
+    "isomorphic-unfetch": "^4.0.0",
     "qs": "^6.7.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
